@@ -1,0 +1,26 @@
+{
+  "name": "ywzpet--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.18.10",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@mui/material": "5.9.2",
+    "@types/react": "18.0.16",
+    "@usereact/use-yup": "^1.0.0",
+    "axios": "0.27.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
